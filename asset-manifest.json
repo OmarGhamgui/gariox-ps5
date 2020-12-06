@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gariox-ps5/static/css/main.b486527f.chunk.css",
+    "main.js": "/gariox-ps5/static/js/main.1b3ef936.chunk.js",
+    "main.js.map": "/gariox-ps5/static/js/main.1b3ef936.chunk.js.map",
+    "runtime-main.js": "/gariox-ps5/static/js/runtime-main.b99cc855.js",
+    "runtime-main.js.map": "/gariox-ps5/static/js/runtime-main.b99cc855.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/gariox-ps5/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9cd1f9f9.chunk.js": "/gariox-ps5/static/js/2.9cd1f9f9.chunk.js",
+    "static/js/2.9cd1f9f9.chunk.js.map": "/gariox-ps5/static/js/2.9cd1f9f9.chunk.js.map",
+    "static/js/3.549330ff.chunk.js": "/gariox-ps5/static/js/3.549330ff.chunk.js",
+    "static/js/3.549330ff.chunk.js.map": "/gariox-ps5/static/js/3.549330ff.chunk.js.map",
+    "index.html": "/gariox-ps5/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/gariox-ps5/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.b486527f.chunk.css.map": "/gariox-ps5/static/css/main.b486527f.chunk.css.map",
+    "static/js/2.9cd1f9f9.chunk.js.LICENSE.txt": "/gariox-ps5/static/js/2.9cd1f9f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99cc855.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9cd1f9f9.chunk.js",
+    "static/css/main.b486527f.chunk.css",
+    "static/js/main.1b3ef936.chunk.js"
+  ]
+}
